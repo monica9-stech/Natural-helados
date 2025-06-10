@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+
+   
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Natural Fruit Ice Cream</title>
+
+    <style>
+
+        body {
+
+            font-family: Arial, sans-serif;
+
+            margin: 0;
+
+            padding: 20px;
+
+            background-color: #f8f8f8;
+
+            text-align: center;
+
+        }
+
+        header {
+
+            margin-bottom: 20px;
+
+        }
+
+        img {
+
+            max-width: 100%;
+
+            height: auto;
+
+        }
+
+        .catalogo {
+
+            margin-top: 20px;
+
+        }
+       .producto {
+
+            border: 1px solid #ccc;
+
+            padding: 10px;
+
+            margin: 10px;
+
+            display: inline-block;
+            width: 200px;
+
+        }
+
+        footer {
+
+            margin-top: 40px;
+
+        }
+
+ 
+         
+   <title> cambiar fondo </title>
+
+        <style> 
+
+        body {
+
+    background-color:beige;
+    }
+</style >
+
+</head>
+
+<body>
+
+<header>
+      <img src="https://lh3.googleusercontent.com/fife/ALs6j_F-rfsI1FF7lm1ya01-ARzLZwCeFDbk3SARz0a1ZtDJ7JoJyrxf8OxEntJi5TtgUE6-7-ZdDgqWqA0k6PVFEYyCOtgQevhJQ5FBqU1i37tfvCF0r6MmHJ9q0VEMsO4ChURcs9YkKxb5ZHrR7PIVlj_BnrPtRKEy1r5cAqMy_vPLKBEmy-5DH-b3MUmiJeI79oVmsDxrs8K7pNhQ1JOF_QC7pJjbxT69fGrTDqqY6vG7MkkHD0u3jBLEqzuQQ2kj6B0pvGS6efZFSkqs3GwDBBn1vLIA11g4seeH9kiq2RxjJC2SQkSJfvSa0757MYGLNYH0Rvh2ZMNN9GkLYD0TQCAmz2QtZBbYbqLNVPvNSet8BPSPOj0A7p_-H9FcshlQLOXmbhknyYT69r621cItSlfCOLIwRZ8tIeqQxPhWqF9_-TrAuXboDj_dEJfSYdp7Er9bZs7CiMMrl15EQGCyUypBnKbnSeKQLDJEYzIB3dXDodi4-5ZGciiKBEAXshQ3G_xDvsP6GHmdlhq2q8N2NSL9Vk9dUfnYe6V9kzQ3zzZ4zcK0NHV--ZOXGaYTCAvKnPo4GURA2_FsKazBG59ojdIAtWutkYpFJL8Q7JIDpb3Oy9gje6LWayV1GbPRbyWWHrkDABVkUZPh9Id3HZiPMHL95QtloNX0MgjnexbXxbxu_EFnx-bN42NEW22FPNEeUFURikLT5i3AS-haPZve6LQUEzzEbxR6llQUlvYAd2aPe8qLpw0QyUu07pbIswaVPy05tLTfE-Qun_pjWb02t9U-e-Cl0j60-S4sAb9EHmUumcB7sTcqWFoe_PW5SUS9knWQkzDFgYNuG76x-Cb5MPFydU6VkOJWzn-Yv9LpIFDEqx3jiRxltF_QxxqFDpqIuWx3EhA3zTW-vqxcY4G-QgvXJicGcfseK3IPx-nkF-b2ZhGGz1UvKSAPzz3WKI_Z3yEmyH8r2xM4A9gzbb5cyjoYVMUbaUVdUshpWS3vtwglb8PNu-yw_IxrQDR_C4gVhH_s6S71DgoEmt35Ek5dU6Lzbd0w5SEZrsj0gsuHrdiDAqgiKrJNglLMmynOTkHx4dFcPV7HO_p6FRLGzW6GOVqrePuXdoigtbloICACm7JZQ2CbIvvaeX1wKCfPpKu9mz6ixsTfjhFtIuRHBW6YXA-KBlNYeU5pA0ZKlPMefLTnxjo_LnrCTRMUBhaBt5rNKjOyY3yQK-pxm_FQtmj9fM6RokIyN2p7zQsf6xL0WzrZVYIA2tLRHX5nQwfCG0MhSbZ30qJOQWMGkpXSo1jmqA6IHgASXzx1GxJEUWDvgmGVs1nHfJQzayZQTYJbuTdkJXgdN5MPpUMKVCG3a38mnGuQNfhlLXXwXR3iygX42rj_lrhpNQ8y9dVu=s500-w500-h500-n-k?authuser=0&hl=es-US.jpg" alt="Logo de la tienda"style="width:100px; heigh:100px">
+
+    <h1>Bienvenidos a tu tienda</h1>
+
+    <h2>Natural Fruit Ice Cream</h2>
+
+    <img src="https://lh3.googleusercontent.com/fife/ALs6j_E7qXso0ZKlEbIs3LPr6_3-F_zdLM71dC6xB-QS3gO1AwAdaFg5fasizScq-YaRB4d8vKOHIyIrsu80GKlHbn1gEWIGidjKxk4ZHiA8jPm_PDIJhGdYttQWo5iN_hBWZGu8Xuh_VOoaUvvcpG0XuifdMMS2QVocd6zBLQ53kBk0g9Dy6eKYrmHZbjqpz59H71VgD4gL9a5E0gJfhoxnAClafQpZVGqLY0Zngm3crmLgD-Woz-R0P5yz0RYCaTtRPrjh_FqNj9uIS0Nj7PrMd1SJ1dAlYAvQtlcajwlkjAWOfrWutfwIuHckNrf3k4dK9JX2FkqS-bFpBENQ9Yt35OnW18E-YoBnsBQ4Phnr7EsHMLm2Od8B9M9uYQgmSkfMYbreuyqi4iZWd__rebUs0KLZDEOWzXzwiFOxKt4my2cX4TBPhRfiG8oB1kDEYKiQeDoKi6LO1O9ZooyYD9YWBBWeQk_OYczZCOVDUcfMpOpUhKTIEUt1j6cJR-3RknHh7FQzoNY8GWZDB-dggRI4PUikvTA5IQFbGQqhadqQYoxlY9h_neRaYI87Ncs4CzERwxfc6sFmW5oUhyxxIhwC3aWDsbq8INrJVd3lA34k3CenAm8mpZl1yoxXJJn39RxOp_PHUaiDc6iogqh3486W3J5Mrfl-JQNcN1VS8XJCOWsEA8YaVzZXToboWq-ztJzbqj0QUjHqjD2JgHAE5VSybBk5qy0DxD9B1mehluc9Jn-CfFNXre7FffaHTS-v6_paJl0q0GJvJVnhSMvL9S1HO_3DnFux0zjw1_Dmn_jRN9nAclCxQr_8Pi2eO5mDlI0ccj2o2y7vUq7dJDe1N7EB9pNkMLbcLgQ5KoqcQB0Pj3e-SNxsLpdIXGzP__un-qEcwb11tit7I2qu4lpftqV_Ozcy_bXebfL1u_9Y7zupHHNen0FQvqGgJ1Q6zuveq0VlY-6zPspo5uOzuw11x0agyToOt4rRDUQdeHhlpsyDb7FfU98cIfRDQxmCXY8-Y_DEP5ZG4vflfoZFhgOSg3ZNcrZSDryZvz-Logc4-1FoRrIQWRZI-wXGWMNY1B1BPgMMsT9-ozcYL8CawL62dIfILRSOHAAxLahZlwU6VSIHIUO4ZtIBO2YpkodOqivmZC-lQSG-mTCMAA1QQ2K021_3C3KJ7XghrqxDPVBhZCjy6Q-W1bHSBDXOrbQ9ZJRrJ_drML7ErFo-bmYjBro_TEBLM5gPm2Yw4i3LG08Fh-mFGOFkdYETmhu875kYNTynmPNx5Hf9Mzhd91z3IXgFX33OwxyixTbNU39q1HXEnUSva4uYLuSLVFvi0aKZusvGKmut-07H3R7gZLHqBSg6YkljqE8-0Bbil_XbowSorn0TSCM-V0_pmUZ8aJc=s2048-w1024-h2048-n-k?authuser=0&hl=es-US.jpg" alt="Flyer de la tienda" style="width:200px; heigh:100px">
+</header>
+
+<section class="catalogo">
+
+    <h3>Catálogo de productos</h3>
+
+    
+
+    <div class="producto">
+
+        <h4>Limon</h4>
+
+        <img src="https://i.ytimg.com/vi/SjXhrY1gqxY/maxresdefault.jpg" alt="Helado de fresa" style="width:200px; heigh:100px">
+
+        <p>Precio: $15.00</p>
+
+    </div>
+  <div class="producto">
+    <h5>Melón</h5>
+    <img src="https://www.hogarmania.com/archivos/201505/helado-de-melon-668x400x80xX.jpg" alt="Helado de melón" style="width:200px; heigh:100px">
+         
+         <p> Precio: $15.00</p>
+    </div>
+   <div class="producto">
+    <h5>Mango</h5>
+
+    <img src="https://sivarious.com/wp-content/uploads/2023/06/helado-de-mango-casero.jpg" alt="Helado de mango" style="width:200px; heigh:100px">
+
+         
+
+         <p> Precio: $15.00</p>
+
+    </div>
+   <div class="producto">
+
+    <h5> Piña</h5>
+
+    <img src="https://okdiario.com/img/2021/07/21/helado-de-pina-colada-655x368.jpg" alt="Helado de melón" style="width:200px; heigh:100px">
+
+         
+
+         <p> Precio: $15.00</p>
+      </div>
+      <div class="producto">
+
+    <h5>Sandia </h5>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtwiVYuo9ASATaxPC8R8OoF7qlp0Rvq048kA&s.jpg" alt="Helado de melón" style="width:200px; heigh:100px">
+
+         
+
+         <p> Precio: $15.00</p>
+
+    </div>
+   <div class="producto">
+
+    <h5>Fresa</h5>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS85eefSxxnH1RQ-Z9G78rkq0osuvZABaA9g&s.jpg" alt="Helado de melón" style="width:200px; heigh:100px">
+
+         
+
+         <p> Precio: $15.00</p>
+
+    </div>
+
+</section>
+
+<section class="pedido">
+
+    <h3> Realizar Pedidos</h3>
+
+    <form action="#" method="post">
+
+        <label for="nombre">Nombre:</label><br>
+
+        <input type="text" id="nombre" name="nombre"><br><br>
+
+        <label for="dirección">Dirección:</label><br>
+
+        <input type="direccion" id="Direccion" name="direccion"><br><br>
+      <label for="teléfono">Teléfono:</label><br>
+        <input type="teléfono" id="teléfono" name="teléfono"><br><br>
+  
+      
+        <label for="producto">Selecciona un producto:</label><br>
+
+        <select id="producto" name="producto">
+
+            <option value="Limón">Limón</option>
+<option value="Sandia">Sandia</option>
+          <option value="Mango">Mango</option>
+          <option value="fresa">Fresa</option>
+          <option value="Piña">Piña</option>
+          <option value="Melón">Melón</option>
+
+        </select><br><br>
+      <label for="cantidad">Cantidad de productos:</label><br>
+      <input type="cantidad" id="Cantidad" name="cantidad"><br><br>
+      
+
+        <input type="submit" value="Realizar Pedido">
+
+    </form>
+
+</section>
+
+<footer>
+
+    <h3>Contactos</h3>
+
+    <p>Email: helados4personas@gmail.com</p>
+  <p> Teléfono: 4427956660</p>
+    <p>Instagram: @natu_ralicecream
+      
+    <h4>  <section class="COMENTARIO">
+      <label for="COMENTARIO">Comentario:</label><br>
+      <input type="COMENTARIO" id="COMENTARIO" name="COMENTARIO"><br><br>
+      
+
+        <input type="submit" value="Enviar comentario">
+      </h4>
+ </selection>
+<h3>Ubicación</h3>
+    <p>SanNicolasGuadalupe, Centro</p>
+  <a href="https://maps.app.goo.gl/fA3WN8am4hDMdbJ18" target="_blank">Ver en Google Maps</a>
+<html>
+
+  <head>
+
+    <title>Add a Map using HTML</title>
+
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+
+    <script type="module" src="./index.js"></script>
+
+  </head>
+
+  <body>
+
+    <gmp-map
+
+      center="37.4220656,-122.0840897"
+
+      zoom="10"
+
+      map-id="DEMO_MAP_ID"
+
+      style="height: 400px"
+
+    ></gmp-map>
+
+    <!--
+      The defer attribute causes the script to execute after the full HTML
+
+      document has been parsed. For non-blocking uses, avoiding race conditions,
+
+      and consistent behavior across browsers, consider loading using Promises. See
+
+      San Nicolás Guadalupe https://g.co/kgs/jvsMy9T
+
+      for more information.
+
+      -->
+
+    <script
+
+      src="https://maps.app.goo.gl/fA3WN8am4hDMdbJ18" alt=" Ubicación en gogle"
+
+      defer
+
+    ></script>
+
+  </body>
+
+</html>
+  
+
+</footer>
+
+</body>
+
+      </html>
